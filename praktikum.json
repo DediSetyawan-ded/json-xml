@@ -1,0 +1,53 @@
+{
+	"data": {
+		"row": [
+			{
+				"nama": "Anton",
+				"umur": 21,
+				"pekerjaan": "mahasiswa",
+				"menikah": true,
+				"pengalaman": [
+					"tukang parkir",
+					"juru masak",
+					"manager"
+				]
+			},
+			{
+				"nama": "Budi",
+				"umur": 23,
+				"pekerjaan": "mahasiswa",
+				"menikah": false,
+				"pengalaman": [
+					"pedagang",
+					"juru kunci",
+					"direktur"
+				]
+			},
+			{
+				"nama": "Cecep",
+				"umur": 24,
+				"pekerjaan": "dosen",
+				"menikah": true,
+				"pengalaman": [
+					"tukang kebun",
+					"tukang bangunan",
+					"tukang desain",
+					"dosen"
+				]
+			},
+			{
+				"nama": "Desi",
+				"umur": 21,
+				"pekerjaan": "artis",
+				"menikah": false,
+				"pengalaman": [
+					"cleaning service",
+					"komedian",
+					"konsultan",
+					"penyanyi",
+					"artis",
+				]
+			},
+		]
+	}
+}
